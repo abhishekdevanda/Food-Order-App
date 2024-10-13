@@ -59,7 +59,7 @@ Check out the live version: [Food Delivery App](https://food-order-app-0gjk.onre
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Abhishek-Devanda/Food-Order-App.git
-   cd Food-Order-App```
+   cd Food-Order-App
    ```
 2. **Install backend dependencies**:
    ```bash
